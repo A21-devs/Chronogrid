@@ -1,4 +1,4 @@
-Demo: https://ari-development21.github.io/Chronogrid/
+Demo: https://a21-devs.github.io/Chronogrid/
 
 # Chronogrid
 
